@@ -1,7 +1,7 @@
 # Macroeconomic-Impact-Globalization
 
 # General Overview
-Problem set for class on the macroeconomic impact of globalization. I use Python to solve two empricial and two theoretical questions. All answers and code can be found in 'Homework #2 Answers.pdf' and all questions can be found in 'Homework #2 Questions.pdf'.
+This repository contrains a problem set for a class on the macroeconomic impact of globalization. I use Python to solve two empricial and two theoretical questions. All answers and code can be found in 'Homework #2 Answers.pdf' and all questions can be found in 'Homework #2 Questions.pdf'.
 
 # Use Case
 This problem set is helpful for those trying to analyze the impact of changes in exchange rates on inflation as well as the degree to which exchange rate movements are transmitted to domestic prices. 
